@@ -17,5 +17,5 @@ social: false # includes social icons at the bottom of the page
 
 I am a master student at the University of Bonn. I like mathematics and physics.
 
-In the Summer Semester 2024 I will be tutoring Algebraic Topology II, see [AT2](/al-folio/publications/) for info about the tutorial.
+In the Summer Semester 2024 I will be tutoring Algebraic Topology II, see [AT2](/AT2/) for info about the tutorial.
 
