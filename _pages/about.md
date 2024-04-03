@@ -17,4 +17,6 @@ social: false # includes social icons at the bottom of the page
 
 Welcome to my page! I am a master student at the University of Bonn. I like mathematics and physics.
 
-In the Summer Semester 2024 I will be tutoring Algebraic Topology II. I plan to use [this page](/AT2_tutorial/) to upload stuff relevant to the tutorial (eventually).
+In the Summer Semester 2024 I will be tutoring for the course Algebraic Topology II taught by Jack Davies and Liz Tatum. I plan to use [this page](/AT2_tutorial/) to upload stuff relevant to the tutorial (eventually).
+
+Here is my email: s6milore@uni-bonn.de. Feel free to contact me for anything!
