@@ -23,4 +23,5 @@ I cannot really recommend reading the following notes (my notetaking has improve
 
 - [Algebraic Topology II]({{https://lrnmhl.github.io}}/assets/pdf/AT2.pdf), taught by Prof. Stefan Schwede in the Summer Semester 22. An introduction to stable homotopy theory (via orthogonal spectra). Someone might find worthwile the detailed introduction to cofibration categories (more general and somewhat easier to deal with than model categories, but still powerful) and triangulated categories.
 
-- [Representation Theory II]({{https://lrnmhl.github.io}}/assets/pdf/RT2.pdf), taught by Prof. Catharina Stroppel in the Winter Semester 22/23. An introduction to some of the basics of geometric representation theory (e.g. flag and Schubert varieties, Coxeter groups), which might be more elementary and concrete than most.
+- [Representation Theory II]({{https://lrnmhl.github.io}}/assets/pdf/RT2.pdf), taught by Prof. Catharina Stroppel in the Winter Semester 22/23. An introduction to some of the basics of geometric representation theory (e.g. flag and Schubert varieties, Hecke algebras and Kazhdan-Lusztig
+polynomials, Coxeter groups), which might be more elementary and concrete than most.
