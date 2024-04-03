@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<br><br>
+<br>
 
 Welcome to my page! I am a master student at the University of Bonn. I like mathematics and physics.
 
