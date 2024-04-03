@@ -19,7 +19,7 @@ I like writing about mathematics, so I expect this page to fill up eventually.
 
 I cannot really recommend reading the following notes (my notetaking has improved considerably since I took these courses), but there might be some interesting tidbits here and there.
 
-- [Algebraic Topology I]({{https://lrnmhl.github.io}}/assets/pdf/AT1.pdf), taught by Prof. Stefan Schwede in the Winter Semester 21/22. These were my first typed notes, so beware, but I enjoyed writing them quite a lot. Might be a good introduction to simplicial sets and some other basic tools of the trade and fundamental results in algebraic topology and homotopy theory.
+- [Algebraic Topology I]({{https://lrnmhl.github.io}}/assets/pdf/AT1.pdf), taught by Prof. Stefan Schwede in the Winter Semester 21/22. These were my first typed notes, so beware, but I enjoyed writing them quite a lot. They might be a good introduction to simplicial sets and some other basic tools of the trade and fundamental results in algebraic topology and homotopy theory.
 
 - [Algebraic Topology II]({{https://lrnmhl.github.io}}/assets/pdf/AT2.pdf), taught by Prof. Stefan Schwede in the Summer Semester 22. An introduction to stable homotopy theory (via orthogonal spectra). Someone might find worthwile the detailed introduction to cofibration categories (more general and somewhat easier to deal with than model categories, but still powerful) and triangulated categories.
 
