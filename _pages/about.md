@@ -15,8 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<br>
-
 Welcome to my page! I am a master student at the University of Bonn. I like mathematics and physics.
 
 In the Summer Semester 2024 I will be tutoring for the course Algebraic Topology II taught by Jack Davies and Liz Tatum. I plan to use [this page](/AT2_tutorial/) to upload stuff relevant to the tutorial (eventually).
