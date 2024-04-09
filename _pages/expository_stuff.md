@@ -17,7 +17,7 @@ I like writing about mathematics, so I expect this page to fill up eventually.
 
 #### Some old lecure notes
 
-I cannot really recommend reading the following notes (my notetaking has improved considerably since I took these courses), but there might be some interesting tidbits here and there.
+I cannot really recommend reading the following notes (quite some time has passed since I took these courses and I cannot vouch for what I wrote), but there might be some interesting tidbits here and there.
 
 - [Algebraic Topology I]({{https://lrnmhl.github.io}}/assets/pdf/old_lecture_notes/AT1.pdf), taught by Prof. Stefan Schwede in the Winter Semester 21/22. These were my first typed notes, so beware, but I enjoyed writing them quite a lot. They might be a good introduction to simplicial sets, fibrations, Eilenberg-MacLane spaces and some other basic tools of the trade and fundamental results in algebraic topology and homotopy theory.
 
