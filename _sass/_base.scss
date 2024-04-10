@@ -18,23 +18,7 @@ span,
 strong {
   color: var(--global-text-color);
 }
-body {
-  font-family: 'Figtree', sans-serif;
-}
-h2 {
-  font-family: 'Figtree ', sans-serif;
-}
-post-header{
-  font-family: 'Figtree ', sans-serif;
-  font-size: 1.0rem;
-}
-// The above sets the font colours and texts
-// some fonts: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
-//font-family: 'Chakra Petch', sans-serif;
-//font-family: 'Didact Gothic', sans-serif;
-//font-family: 'Figtree', sans-serif;
-//font-family: 'Outfit', sans-serif;
-//font-family: 'Urbanist', sans-serif;
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -66,6 +50,9 @@ table.table a {
 
 .table-dark {
   background-color: transparent;
+  &.table-bordered {
+    border: 1px solid var(--global-divider-color) !important;
+  }
 }
 
 figure,
@@ -75,10 +62,85 @@ img {
 
 blockquote {
   background: var(--global-bg-color);
-  border-left: 2px solid var(--global-theme-color);
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
+  border-left: 5px solid var(--global-theme-color);
+  margin: 1.5em 0;
+  padding: 1em;
   font-size: 1.2rem;
+
+  p {
+    margin-bottom: 0;
+  }
+
+  /* Tips, warnings, and dangers blockquotes */
+  &.block-tip {
+    border-color: var(--global-tip-block);
+    background-color: var(--global-tip-block-bg);
+
+    p {
+      color: var(--global-tip-block-text);
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: var(--global-tip-block-title);
+    }
+  }
+
+  &.block-warning {
+    border-color: var(--global-warning-block);
+    background-color: var(--global-warning-block-bg);
+
+    p {
+      color: var(--global-warning-block-text);
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: var(--global-warning-block-title);
+    }
+  }
+
+  &.block-danger {
+    border-color: var(--global-danger-block);
+    background-color: var(--global-danger-block-bg);
+
+    p {
+      color: var(--global-danger-block-text);
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: var(--global-danger-block-title);
+    }
+  }
+}
+
+// Checklist
+
+ul.task-list {
+  list-style-type: none; /* Remove bullets from all levels */
+}
+
+ul.task-list > li ul {
+  /* Nested lists within .task-list */
+  padding-inline-start: 1.5rem;
+}
+
+ul.task-list input[type="checkbox"] {
+  margin: 0.275rem 0.5rem 0.5rem -1rem;
+  vertical-align: middle;
 }
 
 // Math
@@ -133,12 +195,10 @@ blockquote {
 .profile {
   width: 100%;
 
-  .address {
+  .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: "Figtree", sans-serif;
-    font-weight: bold;  
-    font-size: 0.9rem;
+    font-family: monospace;
 
     p {
       display: inline-block;
@@ -168,7 +228,7 @@ blockquote {
 }
 
 .post-description {
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   font-size: 0.875rem;
 
   a {
@@ -181,7 +241,6 @@ blockquote {
   }
 }
 
-
 // Navbar customization
 
 .navbar {
@@ -189,7 +248,6 @@ blockquote {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
-  font-family: "Figtree", sans-serif;
 }
 
 .navbar .dropdown-menu {
@@ -221,33 +279,12 @@ blockquote {
 .navbar.navbar-light {
   a {
     &:hover {
-      color: var(--global-hover-color);
+      text-decoration: none;
     }
   }
-  // The above and below changes add a hover effect to the navbar-brand
-  // .navbar-brand-active is currently not in use
 
   .navbar-brand {
     color: var(--global-text-color);
-    font-size: 2.3rem;
-    padding: .3rem 0;
-    font-weight: 700!important;
-    font-family: "Figtree", sans-serif;
-    &:hover {
-      color: var(--global-hover-color);
-    }
-  }
-
-  .navbar-brand.active {
-    background-color: inherit;
-    font-weight: bolder;
-    color: var(--global-theme-color);
-    font-size: 1.8rem;
-    padding: .2rem 0;
-    font-weight: 600!important;
-    &:hover {
-      color: var(--global-hover-color);
-    }
   }
 
   .navbar-nav .nav-item .nav-link {
@@ -258,7 +295,7 @@ blockquote {
     }
   }
 
-  .navbar-nav .nav-item.active>.nav-link {
+  .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
     font-weight: bolder;
     color: var(--global-theme-color);
@@ -269,16 +306,14 @@ blockquote {
   }
 
   .navbar-brand.social {
-    padding-bottom: 0rem;
-    padding-top: 0rem;
-    padding-left: 0.5rem;
-    padding-right: 0rem;
-    font-size: 1.0rem;
+    padding-bottom: 0;
+    padding-top: 0;
+    font-size: 1.7rem;
 
     a {
       i::before {
         color: var(--global-text-color);
-        transition-property: all 0.3s ease-in-out;
+        transition-property: all 0.2s ease-in-out;
       }
 
       &:hover {
@@ -330,18 +365,6 @@ blockquote {
   }
 }
 
-#navbar-social-icon {
-  background-color: inherit;
-  padding: 0;
-  font-size: 1.05rem;
-  color: var(--global-text-color);
-    &:hover {
-      i::before {
-        color: var(--global-theme-color);
-      }
-    }
-  }
-
 #light-toggle {
   padding: 0;
   border: 0;
@@ -364,7 +387,7 @@ blockquote {
     a {
       i::before {
         color: var(--global-text-color);
-        transition-property: all 0.3s ease-in-out;
+        transition-property: all 0.2s ease-in-out;
       }
 
       &:hover {
@@ -380,6 +403,35 @@ blockquote {
   }
 }
 
+.wechat-modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.wechat-modal > img {
+  display: block;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  width: 33%;
+  max-width: 400px;
+  transform: translate(-50%, -50%);
+}
+
+@media only screen and (max-width: 400px) {
+  .wechat-modal > img {
+    width: 100%;
+  }
+}
 
 // Footer
 footer.fixed-bottom {
@@ -390,6 +442,7 @@ footer.fixed-bottom {
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
+    text-align: center;
   }
 
   a {
@@ -407,6 +460,10 @@ footer.sticky-bottom {
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
+
+  .container {
+    text-align: center;
+  }
 }
 
 // CV
@@ -448,13 +505,13 @@ footer.sticky-bottom {
 
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
-  text-align: left;
-  padding-top: 0rem;
-  padding-bottom: 0.5rem;
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
 
   h1 {
-    color: var(--global-text-color);
-    font-size: 2.3rem;
+    color: var(--global-theme-color);
+    font-size: 5rem;
   }
 }
 
@@ -478,8 +535,6 @@ footer.sticky-bottom {
 }
 
 .post-title {
-  font-family: "Figtree", sans-serif;
-  font-size: 1.5rem;
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
@@ -491,15 +546,15 @@ footer.sticky-bottom {
   padding: 0;
 
   li {
-    border-bottom: 0.5px solid var(--global-divider-color);
+    border-bottom: 1px solid var(--global-divider-color);
     list-style: none;
-    padding-top: 1rem;
-    padding-bottom: 0.5rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 
     .post-meta {
       color: var(--global-text-color-light);
-      font-size: 0.75rem;
-      margin: 0;
+      font-size: 0.875rem;
+      margin-bottom: 0;
     }
 
     .post-tags {
@@ -545,7 +600,6 @@ footer.sticky-bottom {
   }
 }
 
-
 // Distill
 
 .distill {
@@ -554,7 +608,6 @@ footer.sticky-bottom {
     text-decoration: none;
   }
 }
-
 
 // Projects
 
@@ -600,7 +653,6 @@ footer.sticky-bottom {
     text-align: right;
   }
 }
-
 
 // Publications
 
@@ -685,12 +737,12 @@ footer.sticky-bottom {
           }
         }
 
-        >em {
+        > em {
           border-bottom: 1px solid;
           font-style: normal;
         }
 
-        >span.more-authors {
+        > span.more-authors {
           color: var(--global-text-color-light);
           border-bottom: 1px dashed var(--global-text-color-light);
           cursor: pointer;
@@ -804,7 +856,6 @@ code {
   padding: 3px 3px;
 }
 
-
 // Transitioning Themes
 html.transition,
 html.transition *,
@@ -834,17 +885,6 @@ html.transition *:after {
 
       &:hover {
         color: var(--global-theme-color);
-      }
-    }
-  }
-
-  .post-content {
-    blockquote {
-      border-left: 5px solid var(--global-theme-color);
-      padding: 8px;
-
-      p {
-        margin-bottom: 0;
       }
     }
   }
@@ -912,14 +952,14 @@ progress::-moz-progress-bar {
   .copy {
     background: var(--global-card-bg-color);
     border-color: var(--global-bg-color);
-    border-radius: .3rem;
+    border-radius: 0.3rem;
     border-style: none;
     color: var(--global-text-color);
     font-size: medium;
     opacity: 0;
     position: absolute;
-    right: .5rem;
-    top: .5rem;
+    right: 0.2rem;
+    top: 0.2rem;
   }
 
   &:active .copy,
@@ -967,7 +1007,8 @@ progress::-moz-progress-bar {
     }
   }
 
-  .dropdown-item.active, .dropdown-item:active {
+  .dropdown-item.active,
+  .dropdown-item:active {
     background-color: var(--global-hover-color);
     color: var(--global-hover-text-color) !important;
 
@@ -981,13 +1022,13 @@ progress::-moz-progress-bar {
 nav[data-toggle="toc"] {
   top: 5rem;
 
-  .nav .nav>li>a {
-    font-size: .75rem;
+  .nav .nav > li > a {
+    font-size: 0.75rem;
   }
 
-  .nav>li>a {
+  .nav > li > a {
     color: var(--global-text-color);
-    font-size: .75rem;
+    font-size: 0.75rem;
 
     &:hover {
       color: var(--global-hover-color);
@@ -998,7 +1039,7 @@ nav[data-toggle="toc"] {
   .nav-link.active {
     color: var(--global-theme-color);
     border-left-color: var(--global-theme-color);
-    font-size: .75rem;
+    font-size: 0.75rem;
 
     &:hover {
       color: var(--global-hover-color);
@@ -1014,48 +1055,6 @@ nav[data-toggle="toc"] {
     visibility: hidden;
     height: 0;
     top: 0;
-  }
-}
-
-/* Tips, warnings, and dangers blockquotes */
-.post .post-content blockquote {
-  &.block-tip {
-    border-color: var(--global-tip-block);
-    background-color: var(--global-tip-block-bg);
-
-    p {
-      color: var(--global-tip-block-text);
-    }
-
-    h1, h2, h3, h4, h5, h6 {
-      color: var(--global-tip-block-title);
-    }
-  }
-
-  &.block-warning {
-    border-color: var(--global-warning-block);
-    background-color: var(--global-warning-block-bg);
-
-    p {
-      color: var(--global-warning-block-text);
-    }
-
-    h1, h2, h3, h4, h5, h6 {
-      color: var(--global-warning-block-title);
-    }
-  }
-
-  &.block-danger {
-    border-color: var(--global-danger-block);
-    background-color: var(--global-danger-block-bg);
-
-    p {
-      color: var(--global-danger-block-text);
-    }
-
-    h1, h2, h3, h4, h5, h6 {
-      color: var(--global-danger-block-title);
-    }
   }
 }
 
@@ -1089,4 +1088,33 @@ nav[data-toggle="toc"] {
     margin-bottom: 0;
     padding-top: 0.5rem;
   }
+}
+
+.unloaded {
+  display: none !important;
+}
+
+.medium-zoom-overlay,
+.medium-zoom-image--opened {
+  z-index: 999;
+}
+
+#toc-sidebar {
+  z-index: 1;
+}
+
+.echarts {
+  height: 400px;
+  width: 100%;
+}
+
+.map {
+  height: 400px;
+  width: 100%;
+}
+
+swiper-container {
+  --swiper-navigation-color: var(--global-theme-color);
+  --swiper-pagination-color: var(--global-theme-color);
+  --swiper-pagination-bullet-inactive-color: var(--global-text-color);
 }
