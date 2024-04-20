@@ -15,6 +15,8 @@ If you are taking the course, submit your solutions to: s6milore@uni-bonn.de. As
 
 #### Tutorial logbook
 
+I'll record here what we did during the tutorials and if needed post additional stuff to tie up loose ends.
+
 - First tutorial (18/04/24): A chill affair, we reviewed the basics of simplicial sets and quasi-categories. In the end I had to rush through the proof of simplicial groups being Kan complexes, [here]({{https://lrnmhl.github.io}}/assets/pdf/notes/Simplicial_groups_are_Kan_complexes.pdf) is a write-up of a readable (I hope!) proof.
 
 - Plan for the second tutorial on 25/04/24: Apart from correcting the first exercise sheet, we will try to give some motivation for introducing $$\infty$$-categories and talk about what's happening in the course.
