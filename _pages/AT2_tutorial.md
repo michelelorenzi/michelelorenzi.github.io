@@ -19,4 +19,4 @@ I'll record here what we did during the tutorials and if needed post additional 
 
 - Zeroth tutorial (18/04/24): A chill affair, we reviewed the basics of simplicial sets and quasi-categories. In the end I had to rush through the proof of simplicial groups being Kan complexes, [here]({{https://lrnmhl.github.io}}/assets/pdf/notes/Simplicial_groups_are_Kan_complexes.pdf) is a write-up of a readable (I hope!) proof.
 
-- First tutorial (25/04/24): I wasn't very well prepared today, sorry for that. Anyway, we just corrected the exercises, which everybody smashed anyway, so nothing much to add.
+- First tutorial (25/04/24): I wasn't very well prepared today, sorry for that. In any case, we just corrected the exercises, which everybody smashed anyway, so nothing much to add.
