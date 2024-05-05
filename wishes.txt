@@ -1,0 +1,22 @@
+Eventually the webpage will have the following subpages (in this order):
+
+ - About
+ - (Research)
+ - Expository Stuff
+ - Tutorial (subsubpages: Old tutorials)
+ - (Blog, possibly under Personal)
+ - Contact
+ - Personal, a drop down with subsubpages: Why I Do Math, Mental Health, Music, (Blog, possibly its own subpage)
+
+The Contact subpage would read something like this:
+	
+	You can reach me by email (or whatever) at: ...
+	
+	Feel free to contact me anytime, for any reason! I'm especially happy to talk if:
+
+	 - you want to talk about mathematics (e.g. you have doubts about something I've written, or you want to suggest improvements/corrections),
+
+	 - you are in academia at any level and you want someone to talk to about this weird life (check also this page),
+
+	 - you want to play some music with me (in which case check this other page).
+
