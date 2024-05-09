@@ -25,7 +25,7 @@ I'll record here what we did during the tutorials and if needed post additional 
 
 - Second tutorial (02/05/24): Small audience today, I hope most people were out enjoying the sun and touching grass (recommended if you are studying homotopy theory[^1]). Anyway, a couple of announcements: first, see the PSA above, second, next thursday is a public holiday so most likely there will be no meeting in person and I will upload a write-up of the solutions here instead (but I am awaiting instructions from above), third, I wrote [some comments]({{https://lrnmhl.github.io}}/assets/pdf/AT2Tutorial/AT2Tutorial2_Loose_Ends.pdf) about this week's exercises (I don't think I will have time to actually write down the solutions in full, though).
 
-- Third tutorial (09/05/24): **As soon as I know what's happening this week I'll write here.**
+- Third tutorial (09/05/24): **Solutions to the third sheet will appear here and on eCampus (hopefully soon)!**
 
 <br/><br/>
 <br/><br/>
