@@ -11,9 +11,9 @@ I like writing about mathematics, so I expect this page to fill up eventually.
 
 #### Some talks
 
-- [Introduction to the K-theory of C\*-algebras]({{https://lrnmhl.github.io}}/assets/pdf/talks/K-theory_Talk.pdf), December 2023, for the seminar on Kasparov's KK-theory organized by Prof. Koen van den Dungen.
+- [Introduction to the K-theory of C\*-algebras]({{https://lrnmhl.github.io}}/assets/pdf/talks/Operator_K-theory_Talk.pdf), December 2023, for the seminar on Kasparov's KK-theory organized by Prof. Koen van den Dungen.
 
-- [Introduction to pure motives]({{https://lrnmhl.github.io}}/assets/pdf/talks/Chow_Groups:and_Motives_Talk.pdf), November 2022, for the seminar on Chow groups and motives organized by Prof. Daniel Huybrechts. These notes also include as a companion piece the talk by my friend Thomas Manopulo on Chow groups.
+- [Introduction to pure motives]({{https://lrnmhl.github.io}}/assets/pdf/talks/Chow_Groups_and_Pure_Motives_Talks.pdf), November 2022, for the seminar on Chow groups and motives organized by Prof. Daniel Huybrechts. These notes also include as a companion piece the talk by my friend Thomas Manopulo on Chow groups.
 
 #### Some old lecure notes
 
