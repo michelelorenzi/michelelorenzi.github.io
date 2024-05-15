@@ -34,6 +34,4 @@ I'll record here what we did during the tutorials and if needed post additional 
 
 <hr>
 
-<br/><br/>
-
 [^1]: If you were at the exodromy talk instead, then add "touch grass" to the next exercise sheet.
