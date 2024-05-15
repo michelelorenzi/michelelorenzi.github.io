@@ -23,10 +23,11 @@ I'll record here what we did during the tutorials and if needed post additional 
 
 - First tutorial (25/04/24): I wasn't very well prepared today, sorry for that. In any case, we just corrected the exercises, which everybody smashed anyway, so not much to add. Maybe one small takeaway: when proving adjunctions, it's worth trying to reduce them to already known natural bijections.
 
-- Second tutorial (02/05/24): Small audience today, I hope most people were out enjoying the sun and touching grass (recommended if you are studying homotopy theory[^1]). Anyway, a couple of announcements: first, see the PSA above, second, next thursday is a public holiday so most likely there will be no meeting in person and I will upload a write-up of the solutions here instead (but I am awaiting instructions from above), third, I wrote [some comments]({{https://lrnmhl.github.io}}/assets/pdf/AT2Tutorial/AT2Tutorial2_Loose_Ends.pdf) about this week's exercises (I don't think I will have time to actually write down the solutions in full, though).
+- Second tutorial (02/05/24): Small audience today, I hope most people were out enjoying the sun and touching grass (recommended if you are studying homotopy theory[^1]). Anyway, a couple of announcements: first, see the PSA above, second, next thursday is a public holiday so there will be no meeting in person and I will upload a write-up of the solutions here instead, third, I wrote [some comments]({{https://lrnmhl.github.io}}/assets/pdf/AT2Tutorial/AT2Tutorial2_Loose_Ends.pdf) about this week's exercises (I don't think I will have time to actually write down the solutions in full, though).
 
-- Third tutorial (09/05/24): **Solutions to the third sheet will appear here and on eCampus (hopefully soon)!**
+- Third tutorial (no meeting): Sooo... we don't have an elementary solution of Problem 8, we will upload one later explaining some of the technology one can use to prove this kind of statements, for now you can have a look at the [other exercises]({{https://lrnmhl.github.io}}/assets/pdf/AT2Tutorial/AT2Tutorial3_Partial_Solution.pdf). By the way, I still haven't finished correcting the third sheet (sorry, I've been terribly busy!) but don't worry, it's coming.
 
+<br/><br/>
 <br/><br/>
 <br/><br/>
 <br/><br/>
