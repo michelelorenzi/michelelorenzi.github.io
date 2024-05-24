@@ -9,7 +9,7 @@ nav_order: 3
 
 Welcome!
 
-This is the page for the Algebraic Topology II tutorial which takes place at 16 on Thursday. If you are not following the course but for some reason are reading this page, you can find notes for the course and the exercise sheets on [Jack's webpage](https://sites.google.com/view/jackmdavies/teaching?authuser=0) or on the eCampus page for the course; the course will start with a brief introduction to $\infty$-categories (in the guise of quasi-categories), then introduce spectra and stable homotopy theory, and finally the basics of chromatic homotopy theory.
+This is the page for the Algebraic Topology II tutorial which takes place at 16 on Thursday. If you are not following the course but for some reason are reading this page, you can find notes for the course and the exercise sheets on [Jack's webpage](https://sites.google.com/view/jackmdavies/teaching?authuser=0) or on the eCampus page for the course; the course will start with a brief introduction to $$\infty$$-categories (in the guise of quasi-categories), then introduce spectra and stable homotopy theory, and finally the basics of chromatic homotopy theory.
 
 If you are taking the course, submit your solutions to: s6milore@uni-bonn.de. As usual, you need 50% of the points to be admitted to the exam. Presenting solutions during the seminar is not required for admission to the exam, but warmly encouraged.
 
@@ -27,7 +27,7 @@ I'll record here what we did during the tutorials and if needed post additional 
 
 - Third tutorial (no meeting): Sooo... we don't have an elementary solution of Problem 8, we will upload one later explaining some of the technology one can use to prove this kind of statements, for now you can have a look at the [other exercises]({{https://lrnmhl.github.io}}/assets/pdf/AT2Tutorial/AT2Tutorial3_Partial_Solution.pdf).
 
-- Fourth tutorial (16/05/24): Not much to say about this one, the exercises were quite formal, and in fact the takeaway of this week might be precisely that $\infty$-categories are great for proving formally stuff that seems like it should be formal. However, I have one [comment]({{https://lrnmhl.github.io}}/assets/pdf/AT2Tutorial/AT2Tutorial4_Loose_Ends.pdf) about the third exercise: as Praneet correctly pointed out during the tutorial, one still has to make sure that formal arguments actually go through, which can require some care.
+- Fourth tutorial (16/05/24): Not much to say about this one, the exercises were quite formal, and in fact the takeaway of this week might be precisely that $$\infty$$-categories are great for proving formally stuff that seems like it should be formal. However, I have one [comment]({{https://lrnmhl.github.io}}/assets/pdf/AT2Tutorial/AT2Tutorial4_Loose_Ends.pdf) about the third exercise: as Praneet correctly pointed out during the tutorial, one still has to make sure that formal arguments actually go through, which can require some care.
 
 - Fifth tutorial (30/05/24): **There will be biscuits this time! And a piece of chocolate for everybody who presents a solution!**
 
