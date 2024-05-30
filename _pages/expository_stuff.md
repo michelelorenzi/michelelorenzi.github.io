@@ -13,7 +13,7 @@ I like writing about mathematics, so I expect this page to fill up eventually.
 
 Notes for some talks I have given.
 
-- [Introduction to Operator K-Theory]({{https://lrnmhl.github.io}}/assets/pdf/talks/Operator_K-theory_Talk.pdf), given in December 2023, for the student seminar on Kasparov's KK-theory organized by Prof. Koen van den Dungen.
+- [Introduction to Operator K-Theory]({{https://lrnmhl.github.io}}/assets/pdf/talks/Operator_K-Theory_Talk.pdf), given in December 2023, for the student seminar on Kasparov's KK-theory organized by Prof. Koen van den Dungen.
 
 - [Introduction to Pure Motives]({{https://lrnmhl.github.io}}/assets/pdf/talks/Chow_Groups_and_Pure_Motives_Talks.pdf), given in November 2022, for the student seminar on Chow groups and motives organized by Prof. Daniel Huybrechts. These notes also include as a companion piece the talk by my friend Thomas Manopulo on Chow groups.
 
