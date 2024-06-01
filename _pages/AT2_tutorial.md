@@ -29,7 +29,7 @@ I'll record here what we did during the tutorials and if needed post additional 
 
 - Fourth tutorial (16/05/24): Not much to say about this one, the exercises were quite formal, and in fact the takeaway of this week might be precisely that $$\infty$$-categories are great for proving formally stuff that seems like it should be formal. However, I have one [comment]({{https://lrnmhl.github.io}}/assets/pdf/AT2Tutorial/AT2Tutorial4_Loose_Ends.pdf) about the third exercise: as Praneet correctly pointed out during the tutorial, one still has to make sure that formal arguments actually go through, which can require some care.
 
-- Fifth tutorial (30/05/24, no meeting?): **Nevermind what I wrote before, there is a holiday on Thursday again: we will either upload solutions or move the tutorial to Friday, I'll update this page as soon as I know!**
+- Fifth tutorial (no meeting): Solutions to the fifth sheet will be uploaded here (hopefully at least less late than last time...).
 
 <br/><br/>
 <br/><br/>
