@@ -13,7 +13,7 @@ I like writing about mathematics, so I expect this page to fill up eventually.
 
 Notes for some talks I have given.
 
-- [Deformations of Complex Manifolds]({{https://lrnmhl.github.io}}/assets/pdf/talks/Deformations_of_Complex_Manifolds_Talk.pdf), given in May 2024, for the student seminar on Moduli of K3 surfaces organized by Prof. Philip Engel.
+- [Deformations of Complex Manifolds]({{https://lrnmhl.github.io}}/assets/pdf/talks/Deformations_of_Complex_Manifolds_Talk.pdf), given in May 2024, for the student seminar on moduli of K3 surfaces organized by Prof. Philip Engel.
 
 - [Introduction to Operator K-Theory]({{https://lrnmhl.github.io}}/assets/pdf/talks/Operator_K-Theory_Talk.pdf), given in December 2023, for the student seminar on Kasparov's KK-theory organized by Prof. Koen van den Dungen.
 

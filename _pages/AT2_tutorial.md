@@ -31,6 +31,8 @@ I'll record here what we did during the tutorials and if needed post additional 
 
 - Fifth tutorial (no meeting): Solutions to the fifth sheet will be uploaded here (at some point...).
 
+- Sixth tutorial (06/06/24): First tutorial in ages! The Moore spectra exercises were quite challenging, but most groups did well on them, so nothing to add to what we said in the meeting. Math aside, we had a nice time with biscuits and chocolate, if you don't come next week you're missing out!
+
 <br/><br/>
 <br/><br/>
 <br/><br/>
