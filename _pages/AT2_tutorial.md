@@ -33,6 +33,8 @@ I'll record here what we did during the tutorials and if needed post additional 
 
 - Sixth tutorial (06/06/24): First tutorial in ages! The Moore spectra exercises were quite challenging, but most groups did well on them, so nothing to add to what we said in the meeting. Math aside, we had a nice time with biscuits and chocolate, if you don't come next week you're missing out!
 
+- Seventh tutorial (13/06/24): Wew, this one was a big mess, sorry... Hopefully I will upload a solution to the second and third exercise here soon (and of Exercise 2.3.10 in the notes too)!
+
 <br/><br/>
 <br/><br/>
 <br/><br/>
