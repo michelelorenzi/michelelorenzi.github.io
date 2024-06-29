@@ -11,7 +11,7 @@ Welcome!
 
 This is the page for the Algebraic Topology II tutorial which takes place at 16 on Thursday. If you are not following the course but for some reason are reading this page, you can find notes for the course and the exercise sheets on [Jack's webpage](https://sites.google.com/view/jackmdavies/teaching?authuser=0) or on the eCampus page for the course; the course will start with a brief introduction to $$\infty$$-categories (in the guise of quasi-categories), then introduce spectra and stable homotopy theory, and finally the basics of chromatic homotopy theory.
 
-If you are taking the course, submit your solutions to: s6milore@uni-bonn.de. As usual, you need 50% of the points to be admitted to the exam. Presenting solutions during the seminar is not required for admission to the exam, but warmly encouraged.
+If you are taking the course, submit your solutions to: s6milore@uni-bonn.de. As usual, you need 50% of the points to be admitted to the exam (feel free to ask clarifications about my corrections by email or in person!). Presenting solutions during the seminar is not required for admission to the exam, but warmly encouraged.
 
 **Public Service Announcement:** Please do tell me before the tutorial if you want to see the solutions to some of the self-study exercises, so that I can prepare them and (time permitting, and it won't permit too much tbh) present or sketch them in the tutorial. Similarly, feel free to send by email any question about the material of the course if you think it might be something interesting to discuss in the meeting.
 
@@ -34,6 +34,10 @@ I'll record here what we did during the tutorials and if needed post additional 
 - Sixth tutorial (06/06/24): First tutorial in ages! The Moore spectra exercises were quite challenging, but most groups did well on them, so nothing to add to what we said in the meeting. Math aside, we had a nice time with biscuits and chocolate, if you don't come next week you're missing out!
 
 - Seventh tutorial (13/06/24): Wew, this one was a big mess, sorry... Hopefully I will upload a solution to the second and third exercise here soon (and of Exercise 2.3.10 in the notes too)!
+
+- Eight tutorial (20/06/24): Not a lot to comment, this sheet was fairly straightforward. The most interesting exercise was the arithmetic fracture square, but it really was just algebra (of some kind), with the only perhaps slighty subtle part being that the $$q$$-completion of a spectrum is $$p$$-acyclic for $$p\neq q$$ (it's also easy to overlook that one has to prove this...).
+
+- Ninth tutorial (27/06/24): We had a special guest this time, and I got a bit flustered... Anyway, at some point I would like to upload an explanation of why the canonical map $$BU(n-1)\rightarrow B(n)$$ can be identified with the projection of the sphere bundle of the universal rank $$n$$ bundle (this is the sixth of the self-study exercises, it's not difficult, but it can be confusing if one is not familiar with classifying spaces), I don't promise anything however, because (as it's probably clear by the many things I still have to upload) I'm really grasping for time at the moment.
 
 <br/><br/>
 <br/><br/>
