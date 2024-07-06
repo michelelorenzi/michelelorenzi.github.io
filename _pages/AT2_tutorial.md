@@ -39,6 +39,8 @@ I'll record here what we did during the tutorials and if needed post additional 
 
 - Ninth tutorial (27/06/24): We had a special guest this time, and I got a bit flustered... Anyway, at some point I would like to upload an explanation of why the canonical map $$BU(n-1)\rightarrow B(n)$$ can be identified with the projection of the sphere bundle of the universal rank $$n$$ bundle (this is the sixth of the self-study exercises, it's not difficult, but it can be confusing if one is not familiar with classifying spaces), I don't promise anything however, because (as it's probably clear by the many things I still have to upload) I'm really grasping for time at the moment.
 
+- Tenth tutorial (04/07/24): Did this one even happen...?
+
 <br/><br/>
 <br/><br/>
 <br/><br/>

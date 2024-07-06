@@ -9,7 +9,7 @@ nav_order: 2
 
 I like writing about mathematics, so I expect this page to fill up eventually.
 
-#### Some talks
+#### Some old talks
 
 Notes for some talks I have given.
 
