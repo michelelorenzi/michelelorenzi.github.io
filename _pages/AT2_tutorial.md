@@ -13,7 +13,7 @@ This is the page for the Algebraic Topology II tutorial which takes place at 16 
 
 If you are taking the course, submit your solutions to: s6milore@uni-bonn.de. As usual, you need 50% of the points to be admitted to the exam (feel free to ask clarifications about my corrections by email or in person!). Presenting solutions during the seminar is not required for admission to the exam, but warmly encouraged.
 
-**Public Service Announcement:** Please do tell me before the tutorial if you want to see the solutions to some of the self-study exercises, so that I can prepare them and (time permitting, and it won't permit too much tbh) present or sketch them in the tutorial. Similarly, feel free to send by email any question about the material of the course if you think it might be something interesting to discuss in the meeting.
+**Public Service Announcement:** Please do tell me before the tutorial if you want to see the solutions to some of the self-study exercises, so that I can prepare them and (time permitting, and it won't permit too much tbh) present or sketch them in the tutorial. Similarly, you are encouraged to send by email any question about the material of the course if you think it might be something interesting to discuss in the meeting.
 
 #### Tutorial logbook
 
@@ -41,7 +41,9 @@ I'll record here what we did during the tutorials and if needed post additional 
 
 - Tenth tutorial (04/07/24): It would be nice to write a good solution for the exercise with the Gysin sequence; the other exercises were quite straightforward.
 
-- Eleventh tutorial (11/07/24): This will be the last tutorial with graded exercises, the next sheet should be made of quick review questions and should be ungraded.
+- Eleventh tutorial (11/07/24): Last tutorial with graded exercises. I called this one off due to low turnout, if you have any questions regarding the exercises feel free to ask.
+
+- Twelfth tutorial (18/07/24): This one is for any questions you might have left after the official Q&A.
 
 <br/><br/>
 <br/><br/>
