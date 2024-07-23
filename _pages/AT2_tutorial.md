@@ -33,7 +33,7 @@ I'll record here what we did during the tutorials and if needed post additional 
 
 - Sixth tutorial (06/06/24): First tutorial in ages! The Moore spectra exercises were quite challenging, but most groups did well on them, so nothing to add to what we said in the meeting. Math aside, we had a nice time with biscuits and chocolate, if you don't come next week you're missing out!
 
-- Seventh tutorial (13/06/24): Wew, this one was a big mess, sorry... Hopefully I will upload a solution to the second and third exercise here soon (and of Exercise 2.3.10 in the notes too)!
+- Seventh tutorial (13/06/24): Wew, this one was a big mess, sorry... Hopefully I will upload a solution to the second and third exercise here. Exercise 2.3.10 in the notes, which was quite confusing, has been turned into Problem 35 in the ninth sheet.
 
 - Eight tutorial (20/06/24): Not a lot to comment, this sheet was fairly straightforward. The most interesting exercise was the arithmetic fracture square, but it really was just algebra (of some kind), with the only perhaps slighty subtle part being that the $$q$$-completion of a spectrum is $$p$$-acyclic for $$p\neq q$$ (it's also easy to overlook that one has to prove this...).
 
@@ -43,7 +43,9 @@ I'll record here what we did during the tutorials and if needed post additional 
 
 - Eleventh tutorial (11/07/24): Last tutorial with graded exercises. I called this one off due to low turnout, if you have any questions regarding the exercises feel free to ask.
 
-- Twelfth tutorial (18/07/24): This one is for any questions you might have left after the official Q&A.
+- Twelfth tutorial (18/07/24): This one was a review session.
+
+Good luck with the exam 🍀
 
 <br/><br/>
 <br/><br/>
