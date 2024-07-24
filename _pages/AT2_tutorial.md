@@ -45,9 +45,10 @@ I'll record here what we did during the tutorials and if needed post additional 
 
 - Twelfth tutorial (18/07/24): This one was a review session.
 
+<br/><br/>
+
 Good luck with the exam 🍀
 
-<br/><br/>
 <br/><br/>
 <br/><br/>
 <br/><br/>
