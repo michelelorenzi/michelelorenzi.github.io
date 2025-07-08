@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-I like writing about mathematics, so I expect this page to fill up eventually.
+Some old stuff I wrote as a student.
 
 #### Some old talks
 

@@ -25,11 +25,11 @@ I'll record here what we did during the tutorials and if needed post additional 
 
 - Second tutorial (02/05/24): Small audience today, I hope most people were out enjoying the sun and touching grass (recommended if you are studying homotopy theory[^1]). Anyway, a couple of announcements: first, next Thursday is a public holiday so there will be no meeting in person and we will upload a write-up of the solutions instead, second, I wrote [some comments]({{https://lrnmhl.github.io}}/assets/pdf/AT2Tutorial/AT2Tutorial2_Loose_Ends.pdf) about this week's exercises.
 
-- Third tutorial (no meeting): Sooo... we don't have an elementary solution of Problem 8, we will upload one later explaining some of the technology one can use to prove this kind of statements, for now you can have a look at the [other exercises]({{https://lrnmhl.github.io}}/assets/pdf/AT2Tutorial/AT2Tutorial3_Partial_Solution.pdf) at least.
+- Third tutorial (no meeting): Sooo... we don't really have an elementary solution of Problem 8 using just the technology introduced in the course (it probably doesn't exist), for now you can have a look at the [other exercises]({{https://lrnmhl.github.io}}/assets/pdf/AT2Tutorial/AT2Tutorial3_Partial_Solution.pdf) at least.
 
 - Fourth tutorial (16/05/24): Not much to say about this one, the exercises were quite formal, and in fact the takeaway of this week might be precisely that $$\infty$$-categories are great for proving formally stuff that seems like it should be formal. However, I have one [comment]({{https://lrnmhl.github.io}}/assets/pdf/AT2Tutorial/AT2Tutorial4_Loose_Ends.pdf) about the third exercise: as Praneet correctly pointed out during the tutorial, one still has to make sure that formal arguments actually go through, which can require some care.
 
-- Fifth tutorial (no meeting): Solutions to the fifth sheet will be uploaded here (at some point...).
+- Fifth tutorial (no meeting): Solutions to the fifth sheet will be uploaded here if we get around to it.
 
 - Sixth tutorial (06/06/24): First tutorial in ages! The Moore spectra exercises were quite challenging, but most groups did well on them, so nothing to add to what we said in the meeting. Math aside, we had a nice time with biscuits and chocolate, if you don't come next week you're missing out!
 
